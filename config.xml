@@ -6,10 +6,10 @@
         id        = "com.fitmus.app"
         version   = "1.0.0">
 
-    <name>Fitmus app</name>
+    <name>Fitmus</name>
 
     <description>
-        Fitmus app - client for fitmus.com.
+        Fitmus - client for fitmus.com.
     </description>
 
     <author href="https://github.com/Vitaliy-Yarovuy" email="vitaliy.yxz@gmail.com">
