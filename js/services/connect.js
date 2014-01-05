@@ -3,9 +3,9 @@
 app.factory('connect',function ($rootScope, message){
     var rootUrl = "http://dev.fitmus.com/api/v3/",
         rand = Math.random(),
-        app_id = "1",
-        app_key = "1",
-        app_sign = "1",//md5(app_id + app_key);
+        app_id = "5",
+        app_key = "9ifwfnbwe32fkW8fZpzqnvXXXXXXXXXX",
+        app_sign = md5(app_id + app_key),
         sourcePath,
         exerciseSources = {},
         forceToUpdate = false,
